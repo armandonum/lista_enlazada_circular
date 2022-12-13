@@ -1,0 +1,10 @@
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista enlazada circular.csproj.AssemblyReference.cache
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista_enlazada_circular.Form1.resources
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista_enlazada_circular.Properties.Resources.resources
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista enlazada circular.csproj.GenerateResource.cache
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista enlazada circular.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\bin\Debug\lista enlazada circular.exe.config
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\bin\Debug\lista enlazada circular.exe
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\bin\Debug\lista enlazada circular.pdb
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista enlazada circular.exe
+C:\Users\Armando\source\repos\sis 204\lista enlazada circular\lista enlazada circular\obj\Debug\lista enlazada circular.pdb
